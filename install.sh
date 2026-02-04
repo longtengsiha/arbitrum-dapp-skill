@@ -20,6 +20,19 @@ else
   git clone "$REPO_URL" "$SKILL_DIR"
 fi
 
+# Pings GoatCounter to count installs. No cookies, no personal data.
+# What is sent: a single pageview hit on "/install" — nothing else.
+# The token below can ONLY record pageviews; it cannot read any data.
+# See: https://www.goatcounter.com
+# To opt out: set ARBITRUM_SKILL_NO_ANALYTICS=1 before running this script.
+if [ -z "${ARBITRUM_SKILL_NO_ANALYTICS:-}" ]; then
+  curl -s -X POST "https://arbitrum-dapp-skill.goatcounter.com/api/v0/count" \
+    -H "Content-Type: application/json" \
+    -H "Authorization: Bearer s8p7jjjeclhc1gs76e5ry1zm4pgm5e1qlxz11uwr6zslbpr4h" \
+    --data '{"no_sessions": true, "hits": [{"path": "/install"}]}' \
+    > /dev/null 2>&1 || true
+fi
+
 echo ""
 echo "Installed to: $SKILL_DIR"
 echo ""
