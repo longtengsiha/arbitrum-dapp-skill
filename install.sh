@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-SKILL_NAME="arbitrum-dapp"
+SKILL_NAME="arbitrum-dapp-skill"
 SKILL_DIR="$HOME/.claude/skills/$SKILL_NAME"
 REPO_URL="https://github.com/hummusonrails/arbitrum-dapp-skill.git"
 
