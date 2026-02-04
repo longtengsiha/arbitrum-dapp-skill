@@ -15,7 +15,13 @@
 <p align="center">
   <strong>A <a href="https://github.com/anthropics/skills">Claude Code skill</a> for building high-performance dApps on Arbitrum with Stylus Rust and Solidity.</strong>
   <br>
-  <a href="https://hummusonrails.github.io/arbitrum-dapp-skill?ref=github-readme">Documentation</a> · <a href="#quick-start">Quick Start</a> · <a href="https://github.com/hummusonrails/arbitrum-dapp-skill/issues">Report a Bug</a>
+  <a href="https://www.youtube.com/watch?v=vsejiaOTmJA">Demo</a> · <a href="https://hummusonrails.github.io/arbitrum-dapp-skill?ref=github-readme">Documentation</a> · <a href="#quick-start">Quick Start</a> · <a href="https://github.com/hummusonrails/arbitrum-dapp-skill/issues">Report a Bug</a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=vsejiaOTmJA">
+    <img src=".github/video-thumbnail.png" alt="Watch the demo on YouTube" width="600">
+  </a>
 </p>
 
 ## What it does
@@ -126,6 +132,7 @@ arbitrum-dapp-skill/
 
 | Resource | Description |
 |:---------|:------------|
+| [Demo Video](https://www.youtube.com/watch?v=vsejiaOTmJA) | Watch the skill in action |
 | [Arbitrum Stylus Quickstart](https://docs.arbitrum.io/stylus/quickstart) | Official getting-started guide |
 | [Stylus SDK](https://github.com/OffchainLabs/stylus-sdk-rs) | Rust SDK for writing Stylus contracts |
 | [Stylus Workshop](https://github.com/ArbitrumFoundation/stylus-workshop-gol) | Game of Life example project |
